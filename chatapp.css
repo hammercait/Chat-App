@@ -307,31 +307,6 @@ h2{
 
 
 
-@media screen and (min-width: 780px) {
-    .content{
-        display:flex;
-        flex-direction:column;
-        justify-content:center;
-        align-items:center;
 
-    }
-    
-    .phone{
-        position:relative;
-        margin-left:0px;
-        top:0px;
-    }
-  } 
-
-  .text{
-    position:absolute;
-    display:flex;
-    flex-direction:column;
-    align-items:center;
-    justify-content:center;
-    width:360px;
-    margin-left:0px;
-    margin-top:50px;
-}
 
 
